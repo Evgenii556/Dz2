@@ -7,7 +7,8 @@
 
 ## Ниже пример кода из нашего приложения:
 
-```.selector {
+```
+.selector {
   font-family: "Awesome", Arial, sans-serif;
   color: red;
 }```
